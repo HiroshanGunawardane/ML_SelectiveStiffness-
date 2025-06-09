@@ -1,4 +1,4 @@
-Configuration Identification of On-demand Variable Stiffness Strain-Limiting Layers in Zig-zag Soft  Pneumatic Actuators using Deep Learning Methods.
+# Configuration Identification of On-demand Variable Stiffness Strain-Limiting Layers in Zig-zag Soft Pneumatic Actuators using Deep Learning Methods
 
 ## 🚀 Getting Started with Google Colab
 
