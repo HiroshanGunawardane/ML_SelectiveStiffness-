@@ -1,7 +1,4 @@
-# Google Colab Python Projects
-
-Google Colab is a free, cloud-based platform that allows you to write and execute Python code directly in your browser. It's particularly useful for data science and machine learning applications, offering free access to GPUs and TPUs.
-
+# Configuration Identification of On-demand Variable Stiffness Strain-Limiting Layers in Zig-zag Soft  Pneumatic Actuators using Deep Learning Methods
 ---
 
 ## 🚀 Getting Started with Google Colab
