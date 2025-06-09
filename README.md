@@ -8,17 +8,18 @@ Traditional SPAs produce fixed trajectories based on their structural design, li
 
 1. Enabling multiple trajectories from a single SPA structure
 2. Predicting SLL configurations using:
-3. A feed-forward neural network (FNN) approach.
-4. A convolutional neural network (CNN)-based architecture.
+   a. A feed-forward neural network (FNN) approach.
+   b. A convolutional neural network (CNN)-based architecture.
+   
 The models learn the inverse mapping from desired Cartesian tip trajectories to SLL configurations, enabling function-specific and application-adaptive soft robotic systems.
 
 ## Features
-ML-based inverse design of SPAs.
-Generalizable to various SPA applications.
-Supports configurations for:
-Endoscope-style motion.
-Soft robotic gripping.
-Bio-inspired finger actuation.
+1. ML-based inverse design of SPAs.
+2. Generalizable to various SPA applications.
+3. Supports configurations for:
+  a. Endoscope-style motion.
+  b. Soft robotic gripping.
+  c. Bio-inspired finger actuation.
 
 
 ## 🚀 Getting Started with Google Colab
