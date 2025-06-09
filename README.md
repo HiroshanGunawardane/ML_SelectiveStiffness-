@@ -1,5 +1,26 @@
 # Configuration Identification of On-demand Variable Stiffness Strain-Limiting Layers in Zig-zag Soft Pneumatic Actuators using Deep Learning Methods
 
+## Soft Pneumatic Actuator Configuration Prediction
+This repository contains the codebase for the paper "Predicting Modular Strain-Limiting Layer Configurations for Soft Pneumatic Actuators Using Neural Networks". The project presents a novel machine learning-based framework to determine optimal modular strain-limiting layer (SLL) configurations that generate specific tip-point trajectories in soft pneumatic actuators (SPAs) — without the need for structural redesign or re-fabrication.
+
+## Overview
+Traditional SPAs produce fixed trajectories based on their structural design, limiting their flexibility across applications. This work overcomes that limitation by:
+
+Enabling multiple trajectories from a single SPA structure
+Predicting SLL configurations using:
+A feed-forward neural network (FNN) approach.
+A convolutional neural network (CNN)-based architecture.
+The models learn the inverse mapping from desired Cartesian tip trajectories to SLL configurations, enabling function-specific and application-adaptive soft robotic systems.
+
+## Features
+ML-based inverse design of SPAs.
+Generalizable to various SPA applications.
+Supports configurations for:
+Endoscope-style motion.
+Soft robotic gripping.
+Bio-inspired finger actuation.
+
+
 ## 🚀 Getting Started with Google Colab
 
 1. **Access Colab**  
