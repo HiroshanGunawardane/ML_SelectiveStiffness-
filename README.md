@@ -150,7 +150,7 @@ Make sure to update relevant tests as needed.
 
 ---
 
-## 🤝 Correspondance 
+## 🗨️ Correspondance 
 Hiroshan Gunawardane - hiroshan@mail.ubc.ca 
 Duhyeon Lee - duhyeon@student.ubc.ca
 
