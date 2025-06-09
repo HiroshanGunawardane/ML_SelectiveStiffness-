@@ -6,10 +6,10 @@ This repository contains the codebase for the paper "Predicting Modular Strain-L
 ## Overview
 Traditional SPAs produce fixed trajectories based on their structural design, limiting their flexibility across applications. This work overcomes that limitation by:
 
-Enabling multiple trajectories from a single SPA structure
-Predicting SLL configurations using:
-A feed-forward neural network (FNN) approach.
-A convolutional neural network (CNN)-based architecture.
+1. Enabling multiple trajectories from a single SPA structure
+2. Predicting SLL configurations using:
+3. A feed-forward neural network (FNN) approach.
+4. A convolutional neural network (CNN)-based architecture.
 The models learn the inverse mapping from desired Cartesian tip trajectories to SLL configurations, enabling function-specific and application-adaptive soft robotic systems.
 
 ## Features
